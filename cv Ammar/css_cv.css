@@ -1,0 +1,56 @@
+
+    body{
+       
+
+    margin: 10vh auto;
+    width: 70vw;
+    background-color: aqua;
+
+
+
+        
+    }
+    .edu{
+        background: blueviolet;
+        
+        text-align: center;
+
+        font-size: 4rem;
+    
+        border: 5px ridge rgba(39, 92, 196, 0.75);
+    
+        padding: -1rem 0;
+
+
+    }
+    .skilss{
+        list-style-type: none;
+
+        display: flex;
+    
+        padding-left: 0;
+    
+
+    }
+    .sw{
+        direction:ltr;
+
+        list-style-type: none;
+
+        display: flex;
+    
+        padding-left: 0;
+    
+    }
+    .career{
+        margin-right: 2rem;
+
+    font-size: 140%;
+
+    }
+
+    .us{
+        margin-right: 2rem;
+
+    font-size: 140%;
+    }
